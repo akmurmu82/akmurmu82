@@ -1,6 +1,6 @@
-<h2 align='center'>Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Demo" width="40" />, I'm Amit Kumar 
+<h1 align='center'>Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Demo" width="40" />, I'm Amit Kumar 
 Murmu
-</h2>
+</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=31&duration=1996&pause=1500&color=613DC1&center=true&vCenter=true&random=false&width=1200&height=70&lines=I'm+a+passionate+Full+Stack+Web+Developer+from+Jharkhand" alt="Typing SVG" /></a>
 
