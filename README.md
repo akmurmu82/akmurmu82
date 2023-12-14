@@ -1,7 +1,7 @@
 <h2 align='center'>Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Demo" width="40" />, I'm Amit Kumar 
 Murmu
 </h2>
-<hr>
+<!-- <hr> -->
 
 <h3 align='center'>I'm a passionate Full Stack Web Developer with a love for creating interactive and user-friendly web applications.</h3>
 
