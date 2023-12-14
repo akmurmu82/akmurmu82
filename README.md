@@ -2,6 +2,7 @@
 Murmu
 </h2>
 <!-- <hr> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1996&pause=1000&color=613DC1&random=false&width=435&lines=I'm+a+passionate+Full+Stack+Web+Developer+from+Jharkhand" alt="Typing SVG" /></a>
 
 <h3 align='center'>I'm a passionate Full Stack Web Developer with a love for creating interactive and user-friendly web applications.</h3>
 
