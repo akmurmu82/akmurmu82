@@ -9,33 +9,46 @@ Murmu
 <img align="right" alt="Coding" width="300" src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966' />
 
 
+- 🌱 I’m constantly learning and exploring MERN STACK.
+
+- 🌱 I’m constantly learning and exploring MERN STACK.
+
+- 🌱 I’m constantly learning and exploring MERN STACK.
+
 - 🚀 I’m currently working on exciting web projects.
-
-- 🌱 I’m constantly learning and exploring MERN STACK.
-
-- 🌱 I’m constantly learning and exploring MERN STACK.
-
-- 🌱 I’m constantly learning and exploring MERN STACK.
 
 - 💬 Want to know more, check my [Portfolio](https://akmurmu82.github.io)
 
 
-### Tech Stack
+### Tech Stack and Tools:
 
+<div style="width:fit-content; display: flex; 
+gap:10px; justify-content: space-around; margin: auto">
 
-- Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL
-- Other: Git, GitHub, RESTful APIs
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Projects
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Here are a few projects I'm proud of:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-- [Todoist Clone](#) - A productivity application built with React.
-- [GroceryHub Clone](#) - India's largest online food and grocery store clone.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Let's Connect
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+</div>
+<div style="width:fit-content; display: flex; 
+gap:10px; justify-content: space-around; margin: auto">
+
+   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   
+   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+   
+   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+   
+   ![Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)
+</div>
+
+### Let's Connect
 
 - 📧 Email: amitkumar655921@gmail.com
 - 📱 LinkedIn: [amitkumarmurmu](#)
