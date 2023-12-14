@@ -1,16 +1,18 @@
 <h2 align='center'>Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Demo" width="40" />, I'm Amit Kumar 
 Murmu
 </h2>
-<!-- <hr> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1996&pause=1000&color=613DC1&random=false&width=435&lines=I'm+a+passionate+Full+Stack+Web+Developer+from+Jharkhand" alt="Typing SVG" /></a>
 
-<h3 align='center'>I'm a passionate Full Stack Web Developer with a love for creating interactive and user-friendly web applications.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=31&duration=1996&pause=1500&color=613DC1&center=true&vCenter=true&random=false&width=1200&height=70&lines=I'm+a+passionate+Full+Stack+Web+Developer+from+Jharkhand" alt="Typing SVG" /></a>
+
+<h4 align='center'>I'm a passionate Full Stack Web Developer with a love for creating interactive and user-friendly web applications.</h4>
+
+<img align="right" alt="Coding" width="300" src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966' />
 
 - 🚀 I’m currently working on exciting web projects.
-- 🌱 I’m constantly learning and exploring new technologies.
-- 💬 Let's connect! Feel free to reach out for collaboration or just to say hi.
+- 🌱 I’m constantly learning and exploring MERN Stack.
+- 💬 Want to know more, check my Portfolio: [akmurmu82](https://akmurmu82.github.io)
 
-## Tech Stack
+### Tech Stack
 
 - Frontend: React, HTML, CSS, JavaScript
 - Backend: Node.js, Express
