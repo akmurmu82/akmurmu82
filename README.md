@@ -8,15 +8,16 @@ Murmu
 
 <img align="right" alt="Coding" width="300" src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966' />
 
-- 🌱 I’m constantly learning and exploring MERN STACK.
+- 🌱 I’m constantly learning and exploring **MERN STACK**.
+
+- :computer: Open to work on collaborative projects.
 
 - 🌱 I’m constantly learning and exploring MERN STACK.
 
-- 🌱 I’m constantly learning and exploring MERN STACK.
-
-- 🚀 I’m currently working on exciting web projects.
+- 🚀 Checkout my [Resume](https://drive.google.com/file/d/1XxhL-VYKMVthNgEwVmMs5ZLa32aYAFUq/view?usp=sharing)
 
 - 💬 Want to know more, check my [Portfolio](https://akmurmu82.github.io)
+<hr>
 
 ### Tech Stack and Tools:
 
@@ -33,15 +34,16 @@ Murmu
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </p>
 
+<hr>
+
 ### Let's Connect
 
 - 📧 Email: amitkumar655921@gmail.com
 - 📱 LinkedIn: [amitkumarmurmu](#)
-- 💻 GitHub: [akmurmu82](https://github.com/akmurmu82)
 
-## Fun Facts
+### More about me:
 
-- 🎸 I love playing the guitar.
-- 📚 Reading and learning new things is my hobby.
+- 🎸 I love Hiphop music and I can rap too :grin:
+- :camera: I like to vlog my life :camera:
 
 Thanks for stopping by! 😊
