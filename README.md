@@ -18,7 +18,7 @@ Murmu
 
 - 💬 Want to know more, check my [Portfolio](https://akmurmu82.github.io)
 
-### Tech Stack:
+### Tech Stack and Tools:
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
