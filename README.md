@@ -44,6 +44,6 @@ Murmu
 ### More about me:
 
 - 🎸 I love Hiphop music and I can rap too :grin:
-- :camera: I like to vlog my life :camera:
+- 📸 I like to vlog my life 📸
 
 Thanks for stopping by! 😊
