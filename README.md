@@ -36,6 +36,7 @@ gap:10px; justify-content: space-around; margin: auto">
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
+
 <div style="width:fit-content; display: flex; 
 gap:10px; justify-content: space-around; margin: auto">
 
