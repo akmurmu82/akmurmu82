@@ -16,7 +16,7 @@ Murmu
 
 - 🚀 Checkout my [Resume](https://drive.google.com/file/d/1XxhL-VYKMVthNgEwVmMs5ZLa32aYAFUq/view?usp=sharing)
 
-- 💬 Want to know more, check my [Portfolio](https://akmurmu82.github.io)
+- 💬 Want to know more, check my [Portfolio](https://akmurmu82-github-io-frbh.vercel.app/)
 <hr>
 
 ### Tech Stack and Tools:
