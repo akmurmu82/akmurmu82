@@ -35,7 +35,7 @@ Murmu
 </p>
 
 <hr>
-[gist](https://gist.github.com/akmurmu82/ba17729f46f8daa727010ac6d6c8c721)
+![akmurmu82's Stats](https://github-readme-stats.vercel.app/api?username=akmurmu82&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Let's Connect
 
