@@ -36,6 +36,10 @@ Murmu
 
 <hr>
 
+### Profile Views:
+<img src="https://profile-counter.glitch.me/akmurmu82/count.svg" height="50" alt="Profile Views"  />
+
+### GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=akmurmu82&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmurmu82&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" />
