@@ -39,14 +39,13 @@ Murmu
 ### Profile Views:
 <img src="https://profile-counter.glitch.me/akmurmu82/count.svg" height="50" alt="Profile Views"  />
 
-### GitHub Stats:
+### GitHub Stats:(Don't get overwhelmed)
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=akmurmu82&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmurmu82&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmurmu82&theme=vue-dark&hide_border=true" height="150" />
 </div>
 
-### Github Stats:(the are pathetic)
 [![](https://raw.githubusercontent.com/akmurmu82/github-stats/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/akmurmu82/github-stats/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/akmurmu82/github-stats/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/akmurmu82/github-stats/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/akmurmu82/github-stats/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
