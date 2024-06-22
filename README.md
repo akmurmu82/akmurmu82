@@ -16,7 +16,7 @@ Murmu
 
 - 🚀 Checkout my [Resume](https://portfolio-v4-chi-three.vercel.app/)
 
-- 💬 Want to know more, check my [Portfolio](https://akmurmu82-github-io-frbh.vercel.app/)
+- 💬 Want to know more, check my [Portfolio](https://portfolio-v4-chi-three.vercel.app/)
 <hr>
 
 ### Tech Stack and Tools:
