@@ -14,7 +14,7 @@ Murmu
 
 - 🌱 I’m constantly learning and exploring MERN STACK.
 
-- 🚀 Checkout my [Resume](https://drive.google.com/file/d/1XxhL-VYKMVthNgEwVmMs5ZLa32aYAFUq/view?usp=sharing)
+- 🚀 Checkout my [Resume](https://portfolio-v4-chi-three.vercel.app/)
 
 - 💬 Want to know more, check my [Portfolio](https://akmurmu82-github-io-frbh.vercel.app/)
 <hr>
