@@ -16,7 +16,7 @@ Murmu
 
 - 🚀 Checkout my [Resume](https://drive.google.com/file/d/13DahPB0WyedHqoyI-ZSQnX7fLO5m_Gjs/view?usp=drivesdk)
 
-- 💬 Want to know more, check my [Portfolio](https://portfolio-v4-chi-three.vercel.app/)
+- 💬 Want to know more, check my [Portfolio](https://akmurmudeveloper.vercel.app/)
 <hr>
 
 ### Tech Stack and Tools:
